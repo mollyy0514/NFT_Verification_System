@@ -43,7 +43,7 @@ function App() {
       <CssBaseline />
       <AppBar position="relative">
         <Toolbar>
-          <IconButton sx={{ mr: 2 }} href="/" aria-label="home">
+          <IconButton sx={{ mr: 2 }} href="https://github.com/mollyy0514" aria-label="home">
             <HomeIcon />
           </IconButton>
           <ViewInArTwoToneIcon sx={{ mr: 3 }} />
