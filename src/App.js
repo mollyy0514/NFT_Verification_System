@@ -48,7 +48,7 @@ function App() {
           </IconButton>
           <ViewInArTwoToneIcon sx={{ mr: 3 }} />
           <Typography variant="h5" color="inherit" noWrap>
-            NFT Verify System
+            NFT Verification System
           </Typography>
         </Toolbar>
       </AppBar>
