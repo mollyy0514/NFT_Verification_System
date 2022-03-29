@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NFT_Verify_System/static/css/main.2a7aaec9.chunk.css",
-    "main.js": "/NFT_Verify_System/static/js/main.aba054b7.chunk.js",
-    "main.js.map": "/NFT_Verify_System/static/js/main.aba054b7.chunk.js.map",
+    "main.css": "/NFT_Verify_System/static/css/main.9bad0da5.chunk.css",
+    "main.js": "/NFT_Verify_System/static/js/main.10e9a543.chunk.js",
+    "main.js.map": "/NFT_Verify_System/static/js/main.10e9a543.chunk.js.map",
     "runtime-main.js": "/NFT_Verify_System/static/js/runtime-main.859d061e.js",
     "runtime-main.js.map": "/NFT_Verify_System/static/js/runtime-main.859d061e.js.map",
     "static/js/2.cab59f25.chunk.js": "/NFT_Verify_System/static/js/2.cab59f25.chunk.js",
     "static/js/2.cab59f25.chunk.js.map": "/NFT_Verify_System/static/js/2.cab59f25.chunk.js.map",
     "index.html": "/NFT_Verify_System/index.html",
-    "static/css/main.2a7aaec9.chunk.css.map": "/NFT_Verify_System/static/css/main.2a7aaec9.chunk.css.map",
+    "static/css/main.9bad0da5.chunk.css.map": "/NFT_Verify_System/static/css/main.9bad0da5.chunk.css.map",
     "static/js/2.cab59f25.chunk.js.LICENSE.txt": "/NFT_Verify_System/static/js/2.cab59f25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.859d061e.js",
     "static/js/2.cab59f25.chunk.js",
-    "static/css/main.2a7aaec9.chunk.css",
-    "static/js/main.aba054b7.chunk.js"
+    "static/css/main.9bad0da5.chunk.css",
+    "static/js/main.10e9a543.chunk.js"
   ]
 }
