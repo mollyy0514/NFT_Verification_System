@@ -90,7 +90,7 @@ export function Verify () {
                     onChange={handleChange_Erc}
                     >
                     <MenuItem value={'ERC721'}>ERC721</MenuItem>
-                    <MenuItem value={'ERC1155'}>ERC1155</MenuItem>
+                    <MenuItem value={'ERC1155'}>ERC1155 (constructing...)</MenuItem>
                     </Select>
                 </FormControl>
                 <FormControl fullWidth sx={{ m: 1, width: '30ch' }} variant="standard">
@@ -111,7 +111,7 @@ export function Verify () {
                         startAdornment={<InputAdornment position="start"> - </InputAdornment>}
                     />
                 </FormControl>
-                <FormControl fullWidth sx={{ m: 1, width: '30ch' }} variant="standard">
+                <FormControl fullWidth sx={{ m: 1, width: '20ch' }} variant="standard">
                     <InputLabel htmlFor="standard-adornment-id">TokenID</InputLabel>
                     <Input
                         id="standard-adornment-id"
@@ -123,7 +123,7 @@ export function Verify () {
             {/* </Box> */}
             </div>
                 <div className='verifyBtn'>
-                <Button sx={{ m: 2, width: '26.5ch' }}
+                <Button sx={{ m: 2, width: '25ch' }}
                     onClick={() => {
                         setFetching(true);
                         setTimeout(() => {

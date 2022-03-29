@@ -53,8 +53,9 @@ function App() {
         </Toolbar>
       </AppBar>
 
+    <div className='Verify'>
       <Verify />
-
+    </div>
       {/* Footer */}
       <div className='footer'>
         <Box sx={{ bgcolor: 'primary.main', p: 2 }} component="footer">
